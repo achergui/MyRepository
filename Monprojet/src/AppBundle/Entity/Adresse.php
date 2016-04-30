@@ -7,7 +7,7 @@ use Doctrine\ORM\Mapping as ORM;
 /**
  * Adresse
  * Cette entité est chargée de contenir les information d'une adresse
- * TOTIii et Tati
+ * TOTO et Tati
  * @ORM\Table(name="adresse")
  * @ORM\Entity(repositoryClass="AppBundle\Repository\AdresseRepository")
  */
