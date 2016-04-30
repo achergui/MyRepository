@@ -8,6 +8,7 @@ use Doctrine\ORM\Mapping as ORM;
  * Adresse
  * Cette entité est chargée de contenir les information d'une adresse
  * TOTO et Tati
+ * Apres la suppression de la branche dev
  * @ORM\Table(name="adresse")
  * @ORM\Entity(repositoryClass="AppBundle\Repository\AdresseRepository")
  */
